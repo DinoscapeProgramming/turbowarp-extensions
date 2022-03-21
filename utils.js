@@ -5,7 +5,7 @@ class Main {
       name: "Utils",
       blocks: [{
         opcode: 'isurl',
-        blocktype: Scratch.BlockType.REPORTER,
+        blockType: Scratch.BlockType.REPORTER,
         text: 'isURL [URL]',
         arguments: {
           URL: {
